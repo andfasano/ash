@@ -1,0 +1,16 @@
+name: sno-minimal
+machines:
+  - name: node0
+    mac: 52:54:00:06:1d:81
+
+# Overrides example
+#
+# name: sno-minimal
+# machines:
+#   - name: node0
+#     vcpus: 4
+#     memory: 32GiB
+#     disk: 240GiB
+#     mac: 52:54:00:06:1d:81
+#     ip: 192.168.200.70
+

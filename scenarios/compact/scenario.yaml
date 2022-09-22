@@ -1,0 +1,7 @@
+name: compact
+machines:
+  - name: master_0
+    memory: 32GiB
+    mac: 52:54:00:06:1d:81
+  - name: master_1
+  - name: master_2
